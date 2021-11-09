@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 507457022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33036704b66fc7cece45d2f6de3d06fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 87938a58a5a70095e7ad9527a1804d41
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: -857316133, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: 1165995469, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: 8581125, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -692026615, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -45634003, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -1797696086, guid: b310e23bee821cb478da05296ba685d0, type: 3}
+- Class: 114
+  Script: {fileID: -457851255, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -2122520293, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -203084690, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 130328062, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Runtime/Coringa's Balancing Part 1.asset
+- Assets/Manifests/Coringa's Balancing Part 1.Manifest.asset
+- Assets/AssetBundleContentDescriptor.asset
+- Assets/Databases/Settlement/ConstructibleEmblematicExtensionDefinition.asset
+Dependencies: []
