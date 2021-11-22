@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 30638335
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5014aa1742c72c506c145cb53e3a98ff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a719347381ffc306be444517ffa5f761
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: -457851255, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -2122520293, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -203084690, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 411102237, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: -1010444951, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 114
+  Script: {fileID: 130328062, guid: 783efdfc86c10be41b33bb17a2a60f5c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundleContentDescriptor.asset
+- Assets/Databases/Civilizations/LegacyTraitDescriptor.asset
+- Assets/Manifests/Coringa's Balancing Part 3.Manifest.asset
+- Assets/Runtime/Coringa's Balancing Part 3.asset
+Dependencies: []

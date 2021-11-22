@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1457375494, guid: 02642f532edc565419e2dd50b9d96a3a, type: 3}
+  m_Name: ScriptableModProfile
+  m_EditorClassIdentifier: 
+  modId: 1498189
+  editableModProfile:
+    status:
+      value: 0
+      isDirty: 0
+    visibility:
+      value: 1
+      isDirty: 0
+    name:
+      value: Coringa's Balancing Part 2
+      isDirty: 0
+    nameId:
+      value: coringas-balancing-part-2
+      isDirty: 0
+    summary:
+      value: TesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTesteTeste
+      isDirty: 0
+    descriptionAsHTML:
+      value: 
+      isDirty: 0
+    homepageURL:
+      value: 
+      isDirty: 0
+    tags:
+      value:
+      - Mod
+      isDirty: 0
+    metadataBlob:
+      value: 
+      isDirty: 0
+    metadataKVPs:
+      value:
+      - key: RuntimeModuleGUID
+        value: 5e49c016ee3d4702b4aafcae37c72e0c
+      isDirty: 0
+    logoLocator:
+      value:
+        fileName: humankind-brazilians-contempora.jpg
+        url: https://image.modcdn.io/mods/20ca/1498189/humankind-brazilians-contempora.jpg
+      isDirty: 0
+    youTubeURLs:
+      value: []
+      isDirty: 0
+    sketchfabURLs:
+      value: []
+      isDirty: 0
+    galleryImageLocators:
+      value: []
+      isDirty: 0

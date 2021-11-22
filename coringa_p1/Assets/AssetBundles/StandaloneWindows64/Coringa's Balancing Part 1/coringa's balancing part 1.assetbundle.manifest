@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 507457022
+CRC: 1008708775
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33036704b66fc7cece45d2f6de3d06fd
+    Hash: 8c3db9c3b89e142348b8ff645bc44032
   TypeTreeHash:
     serializedVersion: 2
     Hash: 87938a58a5a70095e7ad9527a1804d41
@@ -35,6 +35,6 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Runtime/Coringa's Balancing Part 1.asset
 - Assets/Manifests/Coringa's Balancing Part 1.Manifest.asset
-- Assets/AssetBundleContentDescriptor.asset
 - Assets/Databases/Settlement/ConstructibleEmblematicExtensionDefinition.asset
+- Assets/AssetBundleContentDescriptor.asset
 Dependencies: []

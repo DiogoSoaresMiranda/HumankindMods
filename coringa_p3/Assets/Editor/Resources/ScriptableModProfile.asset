@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1457375494, guid: 02642f532edc565419e2dd50b9d96a3a, type: 3}
+  m_Name: ScriptableModProfile
+  m_EditorClassIdentifier: 
+  modId: 1498202
+  editableModProfile:
+    status:
+      value: 1
+      isDirty: 0
+    visibility:
+      value: 1
+      isDirty: 0
+    name:
+      value: Coringa's Balancing Part 3
+      isDirty: 0
+    nameId:
+      value: coringas-balancing-part-3
+      isDirty: 0
+    summary:
+      value: This mod change the bonus of each civilization trait.
+      isDirty: 0
+    descriptionAsHTML:
+      value: '<p>Hi, my Nickname is ReiCoringa, or JokerKing in English. I''m a brazillian
+        modder , developer and DBA.</p>
+
+        <p>I will <strong>try</strong> to
+        balance out the game with some changes, <strong>it will not be perfect</strong>.
+        To do that i will release some mods that change values OR change how the
+        game works, if you want you can use it to balance your game or to just enjoy
+        another gameplay. I will accept suggestions, but only on my <a href="https://github.com/DiogoSoaresMiranda/HumankindMods/issues"
+        target="_blank" rel="noopener">Github</a>, so if you think that some value
+        or some mechanic on the game should be different i will listen and try to
+        recreate your idea.</p>
+
+        <p><br></p>
+
+        <p>-- <a href="https://humankind.mod.io/coringapart11">Balancing
+        Part 1</a> --</p>
+
+        <p>This one is very simple, now emblematic districts
+        can be place almost anywhere, and it will create roads(or railroads on late
+        game) between places, and every emblematic district will exploit/extract
+        FIMS(Food, Industry, Money and Science) from adjacent hexagons.</p>
+
+        <p>--
+        <a href="https://humankind.mod.io/coringas-balancing-part-2">Balancing Part
+        2</a> --</p>
+
+        <p>This mod change some terrain to give some utility
+        to some biomes and change both natural and artificial wonder''s bonus.</p>
+
+        <p>--
+        <a href="https://humankind.mod.io/coringas-balancing-part-3">Balancing Part
+        3</a> --</p>
+
+        <p>This mod change the bonus of each civilization trait.</p>
+
+        <p>--
+        Balancing Part 4 (WIP) --</p>
+
+        <p>-- Balancing Part 5 (WIP) --</p>
+
+        <p><br></p>
+
+        <p><a
+        href="https://github.com/DiogoSoaresMiranda/HumankindMods" target="_blank"
+        rel="noopener">Github of My Mods</a></p>'
+      isDirty: 0
+    homepageURL:
+      value: 
+      isDirty: 0
+    tags:
+      value:
+      - Mod
+      isDirty: 0
+    metadataBlob:
+      value: 
+      isDirty: 0
+    metadataKVPs:
+      value:
+      - key: RuntimeModuleGUID
+        value: b6b02a372ed64601a10d770c7abf0175
+      isDirty: 0
+    logoLocator:
+      value:
+        fileName: 4fc5c411ba44ff1e4069324de45d2b6c.jpg
+        url: https://image.modcdn.io/mods/b386/1498202/4fc5c411ba44ff1e4069324de45d2b6c.jpg
+      isDirty: 0
+    youTubeURLs:
+      value: []
+      isDirty: 0
+    sketchfabURLs:
+      value: []
+      isDirty: 0
+    galleryImageLocators:
+      value: []
+      isDirty: 0
